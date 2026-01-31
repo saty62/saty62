@@ -8,7 +8,7 @@
 - 💻 Passionate about **Full Stack Web Development** and **Data Structures & Algorithms**  
 - 🚀 Currently enhancing my skills in **MERN Stack** and mastering **problem solving**  
 - 🤝 Love collaborating on open-source and innovative tech projects  
-- 📫 Reach me at **[priyadarshansatyam@gmail.com](mailto:priyadarshansatyam@gmail.com)**  
+- 📫 Reach me at **[satyampriyadarshan62@gmail.com](mailto:satyampriyadarshan62@gmail.com)**  
 
 ---
 
